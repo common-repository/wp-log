@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Log\n"
+"POT-Creation-Date: 2013-05-05 17:01+0330\n"
+"PO-Revision-Date: 2013-05-05 17:13+0330\n"
+"Last-Translator: \n"
+"Language-Team: vahidd.com <vahid-mohamadi@live.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+
+#: ../actions.php:49 ../admin-panel/admin-menu.php:71
+msgid "User Logout"
+msgstr "خروج کاربر"
+
+#: ../actions.php:52 ../admin-panel/admin-menu.php:61
+msgid "User Login"
+msgstr "وارد شدن کاربر"
+
+#: ../actions.php:55 ../admin-panel/admin-menu.php:101
+msgid "Post Edit"
+msgstr "ویرایش نوشته"
+
+#: ../actions.php:58 ../admin-panel/admin-menu.php:81
+msgid "User Register"
+msgstr "ثبت نام کاربر"
+
+#: ../actions.php:61 ../admin-panel/admin-menu.php:121
+msgid "Theme Switch"
+msgstr "عوض شدن قالب"
+
+#: ../actions.php:64
+msgid "New Comment"
+msgstr "نظر جدید"
+
+#: ../actions.php:67 ../admin-panel/admin-menu.php:141
+msgid "Comment Approved"
+msgstr "تایید شدن دیدگاه"
+
+#: ../actions.php:70 ../admin-panel/admin-menu.php:151
+msgid "Comment Unapproved"
+msgstr "تایید نشدن دیدگاه"
+
+#: ../actions.php:73
+msgid "User Delete"
+msgstr "حذف کاربر"
+
+#: ../actions.php:76 ../admin-panel/admin-menu.php:111
+msgid "Post Delete"
+msgstr "حذف نوشته"
+
+#: ../actions.php:79 ../admin-panel/admin-menu.php:161
+msgid "Plugin Activated"
+msgstr "فعال شدن پلاگین"
+
+#: ../actions.php:82 ../admin-panel/admin-menu.php:171
+msgid "Plugin Deactivated"
+msgstr "غیرفعال شدن پلاگین"
+
+#: ../actions.php:85
+msgid "Not Found"
+msgstr "یافت نشد"
+
+#: ../actions.php:104
+msgid "Action"
+msgstr "رویداد"
+
+#: ../actions.php:109
+msgid "Date"
+msgstr "تاریخ"
+
+#: ../actions.php:114
+msgid "User IP"
+msgstr "آی پی کاربر"
+
+#: ../actions.php:126 ../admin-panel/admin-menu.php:193
+msgid "New Activity - {action}"
+msgstr "فعالیت جدید - {action}"
+
+#: ../admin-panel/admin-menu.php:47
+msgid "Settings Successfully Changed"
+msgstr "تنظیمات با موفقیت به روز شدند"
+
+#: ../admin-panel/admin-menu.php:52
+msgid "Logs Settings"
+msgstr "تنظیمات ثبت رویداد ها"
+
+#: ../admin-panel/admin-menu.php:64 ../admin-panel/admin-menu.php:74
+#: ../admin-panel/admin-menu.php:84 ../admin-panel/admin-menu.php:94
+#: ../admin-panel/admin-menu.php:104 ../admin-panel/admin-menu.php:114
+#: ../admin-panel/admin-menu.php:124 ../admin-panel/admin-menu.php:134
+#: ../admin-panel/admin-menu.php:144 ../admin-panel/admin-menu.php:154
+#: ../admin-panel/admin-menu.php:164 ../admin-panel/admin-menu.php:174
+msgid "Save in Database"
+msgstr "ذخیره در پایگاه داده"
+
+#: ../admin-panel/admin-menu.php:65 ../admin-panel/admin-menu.php:75
+#: ../admin-panel/admin-menu.php:85 ../admin-panel/admin-menu.php:95
+#: ../admin-panel/admin-menu.php:105 ../admin-panel/admin-menu.php:115
+#: ../admin-panel/admin-menu.php:125 ../admin-panel/admin-menu.php:135
+#: ../admin-panel/admin-menu.php:145 ../admin-panel/admin-menu.php:155
+#: ../admin-panel/admin-menu.php:165 ../admin-panel/admin-menu.php:175
+msgid "Send with Email"
+msgstr "ارسال با ایمیل"
+
+#: ../admin-panel/admin-menu.php:91
+msgid "User Deleted"
+msgstr "حذف کاربر"
+
+#: ../admin-panel/admin-menu.php:10 ../admin-panel/admin-menu.php:11
+msgid "Log Settings"
+msgstr "تنظیمات ثبت رویدادها"
+
+#: ../admin-panel/admin-menu.php:131
+msgid "New Comment Insert"
+msgstr "ثبت شدن دیدگاه جدید"
+
+#: ../admin-panel/admin-menu.php:181
+msgid "Logs Receiver Mail"
+msgstr "ایمیل دریافت کننده رویداد ها"
+
+#: ../admin-panel/admin-menu.php:190
+msgid "Emails Subject"
+msgstr "متن موضوع ایمیل ها"
+
+#: ../admin-panel/admin-menu.php:199
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+msgid "Wordpress Log"
+msgstr "ثبت وقایع"
+
+msgid "Simple Plugin To Log Some Actions"
+msgstr "ثبت ساده برخی وقایع در پایگاه داده یا ارسال آنها از طریق ایمیل"

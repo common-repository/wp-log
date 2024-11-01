@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Log\n"
+"POT-Creation-Date: 2013-05-05 17:01+0330\n"
+"PO-Revision-Date: 2013-05-05 17:01+0330\n"
+"Last-Translator: \n"
+"Language-Team: vahidd.com <vahid-mohamadi@live.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+
+#: ../actions.php:49
+#: ../admin-panel/admin-menu.php:71
+msgid "User Logout"
+msgstr ""
+
+#: ../actions.php:52
+#: ../admin-panel/admin-menu.php:61
+msgid "User Login"
+msgstr ""
+
+#: ../actions.php:55
+#: ../admin-panel/admin-menu.php:101
+msgid "Post Edit"
+msgstr ""
+
+#: ../actions.php:58
+#: ../admin-panel/admin-menu.php:81
+msgid "User Register"
+msgstr ""
+
+#: ../actions.php:61
+#: ../admin-panel/admin-menu.php:121
+msgid "Theme Switch"
+msgstr ""
+
+#: ../actions.php:64
+msgid "New Comment"
+msgstr ""
+
+#: ../actions.php:67
+#: ../admin-panel/admin-menu.php:141
+msgid "Comment Approved"
+msgstr ""
+
+#: ../actions.php:70
+#: ../admin-panel/admin-menu.php:151
+msgid "Comment Unapproved"
+msgstr ""
+
+#: ../actions.php:73
+msgid "User Delete"
+msgstr ""
+
+#: ../actions.php:76
+#: ../admin-panel/admin-menu.php:111
+msgid "Post Delete"
+msgstr ""
+
+#: ../actions.php:79
+#: ../admin-panel/admin-menu.php:161
+msgid "Plugin Activated"
+msgstr ""
+
+#: ../actions.php:82
+#: ../admin-panel/admin-menu.php:171
+msgid "Plugin Deactivated"
+msgstr ""
+
+#: ../actions.php:85
+msgid "Not Found"
+msgstr ""
+
+#: ../actions.php:104
+msgid "Action"
+msgstr ""
+
+#: ../actions.php:109
+msgid "Date"
+msgstr ""
+
+#: ../actions.php:114
+msgid "User IP"
+msgstr ""
+
+#: ../actions.php:126
+#: ../admin-panel/admin-menu.php:193
+msgid "New Activity - {action}"
+msgstr ""
+
+#: ../admin-panel/admin-menu.php:47
+msgid "Settings Successfully Changed"
+msgstr ""
+
+#: ../admin-panel/admin-menu.php:52
+msgid "Logs Settings"
+msgstr ""
+
+#: ../admin-panel/admin-menu.php:64
+#: ../admin-panel/admin-menu.php:74
+#: ../admin-panel/admin-menu.php:84
+#: ../admin-panel/admin-menu.php:94
+#: ../admin-panel/admin-menu.php:104
+#: ../admin-panel/admin-menu.php:114
+#: ../admin-panel/admin-menu.php:124
+#: ../admin-panel/admin-menu.php:134
+#: ../admin-panel/admin-menu.php:144
+#: ../admin-panel/admin-menu.php:154
+#: ../admin-panel/admin-menu.php:164
+#: ../admin-panel/admin-menu.php:174
+msgid "Save in Database"
+msgstr ""
+
+#: ../admin-panel/admin-menu.php:65
+#: ../admin-panel/admin-menu.php:75
+#: ../admin-panel/admin-menu.php:85
+#: ../admin-panel/admin-menu.php:95
+#: ../admin-panel/admin-menu.php:105
+#: ../admin-panel/admin-menu.php:115
+#: ../admin-panel/admin-menu.php:125
+#: ../admin-panel/admin-menu.php:135
+#: ../admin-panel/admin-menu.php:145
+#: ../admin-panel/admin-menu.php:155
+#: ../admin-panel/admin-menu.php:165
+#: ../admin-panel/admin-menu.php:175
+msgid "Send with Email"
+msgstr ""
+
+#: ../admin-panel/admin-menu.php:91
+msgid "User Deleted"
+msgstr ""
+
+#: ../admin-panel/admin-menu.php:131
+msgid "New Comment Insert"
+msgstr ""
+
+#: ../admin-panel/admin-menu.php:181
+msgid "Logs Receiver Mail"
+msgstr ""
+
+#: ../admin-panel/admin-menu.php:190
+msgid "Emails Subject"
+msgstr ""
+
+#: ../admin-panel/admin-menu.php:199
+msgid "Save Changes"
+msgstr ""
+
+msgid "Wordpress Log"
+msgstr ""
+
+msgid "Simple Plugin To Log Some Actions"
+msgstr ""
+
+#: ../admin-panel/admin-menu.php:10 ../admin-panel/admin-menu.php:11
+msgid "Log Settings"
+msgstr ""
